@@ -25,7 +25,7 @@ pipeline {
         }
         stage('Four') {
                 steps {
-                        echo 'Hi, this is IBM'
+                        echo 'Hi, this is Oracle'
 			
                 }
         }
